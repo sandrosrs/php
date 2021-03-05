@@ -1,6 +1,6 @@
 <?php
 
-echo" dois critérios fundamentais: a coesão e coerência.";
+echo" Galinha do céu.";
 
 
 
