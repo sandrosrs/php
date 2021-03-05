@@ -1,10 +1,16 @@
 <?php
 
-echo" O texto é uma manifestação escrita acerca das ideias de um autor (emissor ou locutor). Eles têm a função de transmitirem mensagens.
+echo"Importante observar que o texto está intimamente ligado ao contexto, e somente existe quando essa relação se estabelece.
 
-Do grego, a palavra “texto” significa “tecido”. Assim, se pensarmos em sua dimensão etimológica, as palavras seriam os fios e o texto seria o tecido completo e organizado.
+Dessa forma, uma lista de supermercado é um texto, se, no entanto, para o leitor ela fizer sentido.
 
-Texto e Contexto.";
+Logo, se você encontra uma lista num ônibus, essa manifestação não será considerada um texto, uma vez que não faz sentido pra você, ou seja, está fora do seu contexto.
+
+Por outro lado, a palavra "silêncio" que surge nas paredes dos hospitais, está atrelado ao contexto e, por isso, é considerada um texto.
+
+Dessa maneira, fica claro que os textos podem ser curtos, com somente uma palavra, ou expresso por meio de um conjunto delas. Contudo, devemos ter atenção às características e os critérios essenciais de um texto.
+
+Sendo assim, o texto não é um emaranhado de frases, e para que ele seja efetivado existem dois critérios fundamentais: a coesão e coerência.";
 
 
 
